@@ -68,6 +68,14 @@ imapsync-gui/
 └── README.md                 # Diese Datei
 ```
 
+### Unterstützung
+
+Wenn IMAPSync GUI dir Zeit gespart hat – über einen Kaffee freue ich mich 😊
+
+[![Kaffee spendieren](https://img.shields.io/badge/☕_Kaffee_spendieren-Stripe-635BFF?style=for-the-badge)](https://buy.stripe.com/14A9ATdSsbQ6aNE8ludMI0l)
+
+---
+
 ### Lizenz
 
 Copyright © 2026 **Steve Rückwardt** – [lex-blog.de](https://lex-blog.de) | [info@lex-blog.de](mailto:info@lex-blog.de)
@@ -146,6 +154,14 @@ imapsync-gui/
 ├── LICENSE                   # GNU GPL v3
 └── README.md                 # This file
 ```
+
+### Support this project
+
+If IMAPSync GUI saved you some time, a coffee is always appreciated 🙂
+
+[![Buy me a coffee](https://img.shields.io/badge/☕_Buy_me_a_coffee-Stripe-635BFF?style=for-the-badge)](https://buy.stripe.com/14A9ATdSsbQ6aNE8ludMI0l)
+
+---
 
 ### License
 
