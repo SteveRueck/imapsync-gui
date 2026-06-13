@@ -40,7 +40,7 @@ Entstehungsgeschichte und Anleitung im Blog:
 |---|---|
 | `.py` direkt starten | Python 3.9+, tkinter (in Windows-Python enthalten) |
 | Fertige `.exe` | Keine – vollständig eigenständig |
-| imapsync selbst | Separat von [imapsync.lamiral.info](https://imapsync.lamiral.info) @github.com/gilleslamiral @github.com/imapsync beziehen |
+| imapsync selbst | Separat von [imapsync.lamiral.info](https://imapsync.lamiral.info) beziehen |
 
 ### Schnellstart
 
@@ -127,7 +127,7 @@ Full story and instructions on the blog:
 |---|---|
 | Run `.py` directly | Python 3.9+, tkinter (included in Windows Python) |
 | Ready-to-use `.exe` | None – fully self-contained |
-| imapsync itself | Obtain separately from [imapsync.lamiral.info](https://imapsync.lamiral.info) @gilleslamiral @imapsync |
+| imapsync itself | Obtain separately from [imapsync.lamiral.info](https://imapsync.lamiral.info) |
 
 ### Quick Start
 
